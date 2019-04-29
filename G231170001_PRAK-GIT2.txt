@@ -1,0 +1,11 @@
+Cara mebuat repository (project) Github via Terminal Linux
+
+1. Masuk ke github.com lalu login dengan username dan password yang sudah dibuat
+2. Pilih new (tombol hijau sebelah kiri) untuk membuat repository baru
+3. Beri nama di kolom repository name yang ingin dibuat misal "PRAK-GIT2"
+4. Isi deskripsi, biarkan pilihan repositorynya menjadi Public lalu pilih create repository lalu muncul quick setup salin link HTTPS / SSH yang ada di kolom 
+5. Buka terminal ketikkan git clone (link yang tertera misal:) https://github.com/ridwanbayus/PRAK-GIT2.git 
+6. Folder repository sudah di clone di direktori Home 
+7. Isi folder dengan file yang di inginkan misalnya saya membuat file G231170001_PRAK-GIT2.txt
+8. 
+
